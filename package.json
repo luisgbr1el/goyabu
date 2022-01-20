@@ -1,0 +1,30 @@
+{
+  "name": "goyabu",
+  "version": "1.0.0",
+  "description": "Easily fetch infos from Goyabu.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisgbr1el/goyabu.git"
+  },
+  "keywords": [
+    "anime",
+    "animes",
+    "goyabu",
+    "animesyabu",
+    "brasil"
+  ],
+  "author": "luisgbr1el",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisgbr1el/goyabu/issues"
+  },
+  "homepage": "https://github.com/luisgbr1el/goyabu#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
