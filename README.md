@@ -1,6 +1,9 @@
 # goyabu
 A easy and simple way to get data from <a href="https://goyabu.com">Goyabu.com</a>.
 
+<a href="https://github.com/luisgbr1el/goyabu/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/luisgbr1el/goyabu"></a>
+<a href="https://github.com/luisgbr1el/goyabu/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/luisgbr1el/goyabu"></a>
+<a href="https://github.com/luisgbr1el/goyabu"><img alt="GitHub license" src="https://img.shields.io/github/license/luisgbr1el/goyabu"></a>
 
 Note that the package only catches the first result, so if you want the second season of **Shingeki no Kyojin**, for example, you need to put `Shingeki no Kyojin 2`.
 
