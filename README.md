@@ -9,7 +9,7 @@ Note that the package only catches the first result, so if you want the second s
 
 - The package doesn't have a **error callback**.
 
-# Install
+# Install (with NPM)
 ```javascript
 npm i goyabu
 ```
